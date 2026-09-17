@@ -1,0 +1,16 @@
+Category,Variable,Missing (n),Missing (%),Imputation Method
+Demographics,Age,0,0.0,None
+,Sex,0,0.0,None
+,Race,6,<0.1,Mode
+Clinical Data,PSA,1481,5.9,Median
+,Hemoglobin,1253,5.0,Median
+,Albumin,1571,6.3,Median
+,Bilirubin,1299,5.2,Median
+,Creatinine,929,3.7,Median
+,Gleason Score,0,0.0,None
+Treatment Variables,Abiraterone,0,0.0,None
+,Enzalutamide,0,0.0,None
+,Docetaxel,0,0.0,None
+Clinical Indices,Charlson Comorbidity Index,4599,18.4,Median
+,Frailty Score,0,0.0,None
+,Elixhauser Groups,0,0.0,None

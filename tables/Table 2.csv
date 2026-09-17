@@ -1,0 +1,3 @@
+,Predicted Deceased (Class 0),Predicted Survivor (Class 1)
+Actual Deceased (Class 0),True Positives (TP): 834,False Negatives (FN): 59
+Actual Survivor (Class 1),False Positives (FP): 86,True Negatives (TN): 186

@@ -1,0 +1,5 @@
+Model,Training Accuracy(%),Testing Accuracy (%),Sensitivity/Recall (%),Specificity (%),Precision (%),F1-score (%)
+Logistic Regression,89.37,87.55,93.0,68.4,91.0,92.0
+Support Vector Machine (SVM),97.40,96.82,96.0,99.0,94.0,96.0
+K-Nearest Neighbor (KNN),92.33,87.21,96.0,57.3,88.0,92.0
+Random Forest,97.20,96.70,97.0,96.0,96.0,96.0
